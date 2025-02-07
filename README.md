@@ -1,2 +1,2 @@
-BOTSTRAP ASSIGNMENT 1 
+BOOTSTRAP ASSIGNMENT 1 
 https://github.com/DBusuru/Bootstrap1.git
